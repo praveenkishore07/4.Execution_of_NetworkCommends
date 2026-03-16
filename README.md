@@ -153,8 +153,9 @@ client.close()
 
 
 ## 5. Netstat
-![outputs](outputs/net 1.png)
-![outputs](outputs/net 2.png)
+![outputs](outputs/net1.png)
+
+![outputs](outputs/net2.png)
 
 
 
